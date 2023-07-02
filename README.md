@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20+GO9ME's%20GitHub%20👋&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=70&height=250)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=6000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=안녕하세요+웹개발자+준비중인+민현성+입니다!👋)](https://git.io/typing-svg)
- 
 <div align="left">
 
 ## 💻 DEV's log 💻
@@ -18,6 +16,9 @@
 
  ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
+   <a href="https://plump-thursday-cbe.notion.site/Portfolio-d37d86c885c041a5a7d15eaf047c6413?pvs=4">
+  		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
+  	</a>
     <a href="https://www.instagram.com/minstragramm/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
