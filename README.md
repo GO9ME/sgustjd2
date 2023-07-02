@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
   
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://burning-go9me.tistory.com/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=burning-go9me&theme=default)](https://burning-go9me.tistory.com/)
 </div><br>
 
 ## 📞 Contact 📞
