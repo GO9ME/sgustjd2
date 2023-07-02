@@ -16,9 +16,8 @@
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=burning-go9me&theme=default)](https://burning-go9me.tistory.com/)
 </div><br>
 
-
-<div style="display:flex; flex-direction:row;">
  ## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/minstragramm/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
@@ -27,9 +26,8 @@
     </a>
 </div><br>
 
-
-<div align=center>
  ### 📚 Language
+<div align=left>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -41,7 +39,7 @@
 
 
 ### 💼 Frameworks / Libraries
-<div align=center>
+<div align=left>
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -50,9 +48,8 @@
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </div>
 
-
-<div align=center>
  ### 🛠 Tools
+<div align=left>
   <img 
 </div>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white">
