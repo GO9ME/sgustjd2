@@ -3,6 +3,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=6000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=안녕하세요+웹개발자+준비중인+민현성+입니다!👋)](https://git.io/typing-svg)
  
 <div align="left">
+---
+
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://burning-go9me.tistory.com/">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+    <a href="https://plump-thursday-cbe.notion.site/32c63b2b0b0e40a0a0e2229ff7e6472f?pvs=4">
+        <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
+    </a>
+  
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://burning-go9me.tistory.com/)
+</div><br>
 
 ### 📚 Language
 <div align=left>
@@ -13,6 +26,16 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
+
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="https://www.instagram.com/minstragramm/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+    <a href="sgustjd1234@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div><br>
 
 ### 💼 Frameworks / Libraries
 <div align=left>
