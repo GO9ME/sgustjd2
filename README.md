@@ -16,9 +16,6 @@
 
  ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-   <a href="https://plump-thursday-cbe.notion.site/Portfolio-d37d86c885c041a5a7d15eaf047c6413?pvs=4">
-  		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=for-the-badge&logo=Micro.blog&logoColor=white" />
-  	</a>
     <a href="https://www.instagram.com/minstragramm/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
